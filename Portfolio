@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Udayasri Reddi - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #6200ea;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #6200ea;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 0.5rem 0;
+        }
+        footer {
+            text-align: center;
+            margin: 2rem 0;
+        }
+        a {
+            color: #6200ea;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Udayasri Reddi</h1>
+        <p>Aspiring Software Developer | AI & Machine Learning Enthusiast</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I am a passionate Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Chandigarh University. With a strong foundation in programming and a love for problem-solving, I aim to create innovative solutions that drive impact.</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li><strong>Programming Languages:</strong> C++, Java, Python</li>
+            <li><strong>Web Development:</strong> HTML, CSS</li>
+            <li><strong>Machine Learning:</strong> Regression Models, Model Optimization</li>
+            <li><strong>Interpersonal Skills:</strong> Leadership, Critical Thinking, Time Management</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li><strong>B.Tech in Computer Science (AI & ML):</strong> Chandigarh University | 2022 - 2026 | 8.29 CGPA</li>
+            <li><strong>Higher Secondary Education:</strong> Sri Chaitanya Junior College | 2020 - 2022 | 87.6%</li>
+            <li><strong>Secondary School Education:</strong> Kakatiya Public School | 2019 - 2020 | 84.4%</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Key Projects</h2>
+        <ul>
+            <li><strong>Ad-Click Prediction Using Logistic Regression:</strong> Achieved a 90% accuracy rate and reduced project expenses by 20%.</li>
+            <li><strong>Spider Venom Peptides as Anti-Cancer Drug Candidates:</strong> Developed a model to analyze drug effects on biological systems.</li>
+            <li><strong>House Price Prediction Using Regression:</strong> Improved model accuracy by 20% and led the team effectively.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Certifications</h2>
+        <ul>
+            <li>Oracle Certification in OCI Generative AI</li>
+            <li>AWS Certification in Cloud Computing</li>
+            <li>Coursera: Programming for Everybody</li>
+            <li>Digital Marketing by AcmeGrade</li>
+            <li>PepShe Supply Chain Star Program by PepsiCo</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Achievements</h2>
+        <ul>
+            <li>Smart India Hackathon 2024: Certificate of Appreciation</li>
+            <li>CU Hack-shield: Certificate of Merit</li>
+            <li>Gold Medal in Throw Ball Tournament</li>
+            <li>Extempore Winner: Student Research Cell</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Hobbies & Interests</h2>
+        <ul>
+            <li>Arts</li>
+            <li>Traveling</li>
+            <li>Reading Novels</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p><strong>Email:</strong> <a href="mailto:udayasri682@gmail.com">udayasri682@gmail.com</a></p>
+        <p><strong>Phone:</strong> +91 9676505406</p>
+        <p><strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/reddi-udayasri-a797b3256">Reddi Udayasri</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Udayasri Reddi. All rights reserved.</p>
+    </footer>
+</body>
+</html>
